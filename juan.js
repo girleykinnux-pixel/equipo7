@@ -1,2 +1,2 @@
-print("Hola soy Juan")
-print("Estoy aprendiendo de forma colaborativa")
+print ("hola, soly juan")
+print ("estoy aprendiendo de forma colaborativa")
